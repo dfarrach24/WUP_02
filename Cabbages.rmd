@@ -88,3 +88,7 @@ Therefore I reject the null hypothesis.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The P-value is 0.000000003405 which is smaller than .05, this means that there is a significant difference in cultivation and it is not based on chance.  The mean results of c39 is 51.5 and the mean in c54 is 64.4. There is data that proves there is a numerical difference. 
+
+
