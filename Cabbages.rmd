@@ -31,7 +31,7 @@ $H_A$: There will be a significant difference
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
-The response variable is "how much vitC' it is numerical
+The response variable is "how much vitC it is numerical
 
 The explanatory variable is which cultivation method, it is a categorical. 
 
@@ -59,6 +59,16 @@ While the median of C39 is 50%
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+
+This table shows that the median of c39  is 51.0, while the mean of c52 is 64.5
+
+
+
 
 ## Inferential Results
 
