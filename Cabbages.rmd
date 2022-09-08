@@ -31,7 +31,9 @@ $H_A$: There will be a significant difference
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+The response variable is "how much vitC' it is numerical
 
+The explanatory variable is which cultivation method, it is a categorical. 
 
 
 # Results
